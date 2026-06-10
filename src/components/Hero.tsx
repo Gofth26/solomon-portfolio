@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { ArrowDown, ArrowUpRight, CheckCircle2, Code2, Sparkles } from "lucide-react";
 
 const stats = [
-  { value: "8", label: "Product concepts" },
+  { value: "7", label: "Product concepts" },
   { value: "3+", label: "Years building" },
   { value: "Cum Laude", label: "IT graduate" },
 ];
